@@ -1,0 +1,6 @@
+{
+  "name": "Fintech Lusaka Hackathon",
+  "tagline": "",
+  "body": "### Welcome to FinTech Lusaka Hackathon.\r\n\r\n## Theme\r\nThis Hackathon brings together FinTech developers, ideators and designers to develop financial products & services and apply new technologies to solving problems. Example applications include innovations in risk management, trading, investing, personal finance, big data, retail banking, regulatory compliance, mobile payments and social enterprise. \r\n\r\n## Reference documentation\r\n\r\n* [[Probase]]\r\n* [[Google Cloud Platform]]\r\n* [[Blockchain]]\r\n* [[Open Bank Project]]\r\n\r\n## Presentations\r\n\r\n* [Probase](http://www.probasegroup.com/)\r\n* [Google Cloud presentation](https://cloudwebinars.withgoogle.com/live/building-node-js-emea)\r\n* [The Open Bank Project: Values, Purpose, Strategy](https://openbankproject.com/apps/)\r\n* [Blockchain](https://blockchain.info/api)\r\n\r\n## Deployment\r\n\r\n* [Google Cloud Codelabs for the event](https://codelabs.developers.google.com/?cat=Cloud) (ask for user Credits on site):   \r\n* [Sample Code](https://github.com/GoogleCloudPlatform/)\r\n\r\n## Packaging\r\n\r\nFor developers to deploy directly, use https://console.cloud.google.com/\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
